@@ -1,6 +1,4 @@
-# Weather App
-cdwcwed
-## Here's the link to the deployed application- ### [Live Site](https://gouravanand662.github.io/weather/)
+### Here's the link to the deployed application- [Live Site](https://gouravanand662.github.io/weather/)
 dcdwccew
 ![Weather Application](https://raw.githubusercontent.com/gouravanand662/pics/main/Annotation%202023-04-08%20144658.png)
 
